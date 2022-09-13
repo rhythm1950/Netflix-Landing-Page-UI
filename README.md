@@ -20,6 +20,8 @@ This is a UI of a Netflix landing page. I have developed it using React, JSX, CS
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+#### Hosting Server:
+- ![Netlify](https://img.shields.io/badge/netlify-%23563D7C.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Website Preview:
 <img src="./public/images/Netflix-Landing-Page-UI.png" alt="Netflix-UI">
