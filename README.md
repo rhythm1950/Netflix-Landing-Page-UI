@@ -4,7 +4,7 @@ This is a UI of a Netflix landing page. I have developed it using React, JSX, CS
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| Netlify Hosting | [Netlify Preview](https://lucky-rolypoly-de1dae.netlify.app/) |
+| Netlify Hosting | [Netlify Preview](https://chipper-cocada-6f7463.netlify.app/) |
 
 ### Technology Stack
 #### Frame-Works, PlatForm & Libraries:
@@ -22,4 +22,4 @@ This is a UI of a Netflix landing page. I have developed it using React, JSX, CS
 
 
 ### Website Preview:
-<img src="./assets/img/Techo-Agency.png" alt="Techo Agency">
+<img src="./images/Netflix-UI.png" alt="Netflix-UI">
