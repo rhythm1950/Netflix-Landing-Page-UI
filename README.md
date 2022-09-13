@@ -22,4 +22,4 @@ This is a UI of a Netflix landing page. I have developed it using React, JSX, CS
 
 
 ### Website Preview:
-<img src="./images/Netflix-UI.png" alt="Netflix-UI">
+<img src="./public/images/Netflix-Landing-Page-UI.png" alt="Netflix-UI">
