@@ -17,6 +17,10 @@ body {
   background: #000;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* Header */
 header {
   position: absolute;
